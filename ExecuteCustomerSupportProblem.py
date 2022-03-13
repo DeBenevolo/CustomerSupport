@@ -1,8 +1,8 @@
 import numpy as np
-from SalmonMDPClass import SalmonMDPClass
+from CustomerSupportMDPClass import CustomerSupportMDPClass
 from vi_exp import vi_exp
 
-mdp = SalmonMDPClass();
+mdp = CustomerSupportMDPClass();
 # ----------------------------------  Do standard value iteration ---------------------
 maxIter = 1e3;
 tol = 1; #1e-5;

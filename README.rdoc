@@ -3,4 +3,5 @@ SETTUP
 1- Install Numpy 
 pip3 install numpy / pip install numpy
 
-python3 ExecuteSalmonProblem.py 
+python3 ExecuteCustomerSupportProblem.py 
+
